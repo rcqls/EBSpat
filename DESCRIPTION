@@ -1,0 +1,11 @@
+Package: EBSpat
+Version: 0.1.3
+Date: 2011-06-01
+Title: Nearest-neigbours models
+Author: Cqls Team
+Maintainer: Remy Drouilhet <rdrouilh@gmail.com>
+Depends: R (>= 2.10.0), CqlsRCom (>= 0.1.0), CqlsRObj (>= 0.1.0)
+Suggests: spatstat
+LinkingTo: CqlsRCom
+Description: Nearest-neighbours models.
+License: GPL (>= 2)
